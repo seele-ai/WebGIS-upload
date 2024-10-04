@@ -1,0 +1,10 @@
+body{
+    background-color: rgba(90,90,90,0.2);
+}
+
+li{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 30px;
+    margin: 0 auto;
+}
